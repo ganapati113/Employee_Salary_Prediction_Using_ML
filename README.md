@@ -21,13 +21,13 @@ Deployment	  =  Streamlit Cloud <br>
 # 📁 Folder Structure 
 Employee-Salary-Prediction/ <br>
 │
-├── app.py                       # Streamlit App <br>
-├── train_model.py              # ML model training script <br>
-├── salary_predictor.pkl        # Trained model with encoders and scaler <br>
-├── requirements.txt            # All dependencies <br>
-├── Salary Data.csv             # Dataset (Adult Census Income) <br>
-├── README.md                   # Project documentation <br>
-└── images/                     # Optional images for UI or README <br>
+├── app.py            =         # Streamlit App <br>
+├── train_model.py    =          # ML model training script <br>
+├── salary_predictor.pkl  =      # Trained model with encoders and scaler <br>
+├── requirements.txt   =         # All dependencies <br>
+├── Salary Data.csv    =         # Dataset (Adult Census Income) <br>
+├── README.md          =         # Project documentation <br>
+└── images/             =        # Optional images for UI or README <br>
 
 # ⚙️ How It Works 
 Data is loaded and preprocessed (train_model.py) <br>
