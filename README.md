@@ -9,7 +9,7 @@ Clean Streamlit web interface
 Deployable on platforms like Streamlit Cloud.
 
 # 🧰 Tools & Technologies Used
-Area	         Tools / Libraries
+Area	         Tools / Libraries <br>
 Language	      Python
 Data Handling	  Pandas, NumPy
 Visualization 	Matplotlib, Seaborn
