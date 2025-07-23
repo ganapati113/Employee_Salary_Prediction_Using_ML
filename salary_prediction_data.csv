@@ -1,0 +1,11 @@
+Education,Experience,Job_Title,Age,Gender,Salary
+Bachelor,3,Data Scientist,28,Male,60000
+Master,5,Software Engineer,30,Female,80000
+PhD,7,Manager,40,Male,120000
+Bachelor,2,Analyst,25,Female,50000
+Master,6,Data Scientist,35,Male,85000
+PhD,10,Manager,45,Female,130000
+Bachelor,1,Software Engineer,22,Male,55000
+Master,4,Analyst,33,Other,70000
+Bachelor,8,Manager,38,Female,110000
+PhD,9,Data Scientist,42,Male,125000
