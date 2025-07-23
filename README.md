@@ -36,6 +36,35 @@ Streamlit app loads model and encoders <br>
 User inputs or uploads batch data <br>
 App shows salary prediction (<=50K or >50K)
 
+# 🚀 Setup Instructions
+# 1. Clone the Repository <br>
+git clone https://github.com/ganapati113/Employee_Salary_Prediction_Using_ML.git <br>
+cd Employee_Salary_Prediction_Using_ML
+
+# 2.Create and Activate Virtual Environment (Optional)
+python -m venv env <br>
+source env/bin/activate  <br>  
+env\Scripts\activate   <br>    
+
+# 3.Install Requirements
+pip install -r requirements.txt
+
+# 4.Train the Model
+python train_model.py
+
+# 5.Run the Streamlit App
+Run the Streamlit App
+# 🧾 requirements.txt
+streamlit <br>
+pandas <br>
+numpy<br>
+scikit-learn<br>
+joblib<br>
+matplotlib <br>
+seaborn <br>
+
+# Live Demo
+Visit:https://employeesalarypredictionusingml-c3dja4q69zxnx56bdyk9it.streamlit.app/
 
 
 
