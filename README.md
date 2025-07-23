@@ -9,14 +9,14 @@ Clean Streamlit web interface <br>
 Deployable on platforms like Streamlit Cloud.<br>
 
 # 🧰 Tools & Technologies Used
-Area	         Tools / Libraries <br>
-Language	      Python <br>
-Data Handling	  Pandas, NumPy <br>
-Visualization 	Matplotlib, Seaborn <br>
-Model Building	scikit-learn <br>
-UI Framework	  Streamlit <br>
-Model Saving	  Joblib <br>
-Deployment	    Streamlit Cloud <br>
+Area	      =   Tools / Libraries <br>
+Language	  =     Python <br>
+Data Handling	 =  Pandas, NumPy <br>
+Visualization =	Matplotlib, Seaborn <br>
+Model Building =	scikit-learn <br>
+UI Framework	 = Streamlit <br>
+Model Saving	=  Joblib <br>
+Deployment	  =  Streamlit Cloud <br>
 
 # 📁 Folder Structure 
 Employee-Salary-Prediction/ <br>
